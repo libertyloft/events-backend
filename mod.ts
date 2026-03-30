@@ -1,6 +1,6 @@
 const ICS_URL =
     "https://calendar.google.com/calendar/ical/libertyloft%40proton.me/public/basic.ics";
-const PREFETCH_INTERVAL_MS = 10_000;
+const PREFETCH_INTERVAL_MS = 30_000;
 const MAX_EVENTS = 6;
 
 const cache = {
